@@ -1,0 +1,20 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300&display=swap');
+
+/* --- Component Design --- */
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/dropdown.css");
+
+
+
+
+/*---Fonts---*/
+body {
+	font-family:'Montserrat', 'sans-serif','Open Sans';
+
+}
+
+h1,h2,h3{
+	font-family: 'Open Sans', sans-serif;
+}
