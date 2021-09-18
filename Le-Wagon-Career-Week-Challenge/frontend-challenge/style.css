@@ -1,0 +1,24 @@
+.radio-wrapper{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.radio-component{
+  border: 2px solid grey;
+  border-radius: 20px;
+  width: 300px;
+  margin: 20% 40px;
+  margin: 10% auto;
+  overflow: hidden;
+}
+
+.radio-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  color: orange;
+}
+
+
