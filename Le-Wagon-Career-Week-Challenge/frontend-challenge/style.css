@@ -1,12 +1,13 @@
 .radio-wrapper{
   width: 60%;
   margin: 0 auto;
+  border: 1px solid red;
 }
 
 .radio-component{
   border: 2px solid grey;
   border-radius: 20px;
-  width: 300px;
+  width: 350px;
   margin: 20% 40px;
   margin: 10% auto;
   overflow: hidden;
@@ -18,7 +19,12 @@
   justify-content: space-between;
   align-items: center;
   height: 50px;
-  color: orange;
+  color: white;
+  padding: 0px 9px;
+  background-color: #edae62;
 }
 
-
+i{
+  font-size: large;
+  color: whitesmoke;
+}
